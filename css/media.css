@@ -1,0 +1,917 @@
+/* ----------large-device media css start--------------- */
+@media(min-width:1400px){
+    .about-left {
+        left: 56px;
+    }
+    .about-right {
+        left: 872px;
+    }
+    .team-icons a i {
+        margin: 0 16px;
+    }
+}
+
+/* ----------large-device media css start--------------- */
+@media(min-width:992px) and (max-width:1199.98px){
+    .navbar-expand-lg .navbar-nav .nav-link {
+        font-size: 15px;
+    }
+    /* --about-area media css start-- */
+    .head p {
+        line-height: 22px;
+    }
+    .about-box {
+        width: 250px;
+        margin: 20px 0;
+        padding-top: 21px;
+        padding-bottom: 0px;
+    }
+    .about-box h4 {
+        font-size: 16px;
+        padding-bottom: 5px;
+    }
+    .about-box p {
+        line-height: 22px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    /* main-circle */
+    .main-circle {
+        width: 150px;
+        height: 150px;
+    }
+    .about-circle {
+        width: 130px;
+        height: 130px;
+        margin-top: 9px;
+        margin-left: 9px;
+    }
+    /* top-circle */
+    .about-top {
+        top: 21px;
+        left: 49%;
+        /* width: 370px; */
+    }
+    .about-top::before {
+        width: 15px;
+        height: 15px;
+        top: 197px;
+        left: 51%;
+    }
+    .about-top::after {
+        width: 30px;
+        height: 30px;
+        top: 153px;
+        left: 120px;
+    }
+    /* left-circle */
+    .about-left {
+        top: 215px;
+        left: 113px;
+        padding-left: 6px;
+        padding-right: 16px;
+    }
+    .about-left::after {
+        width: 30px;
+        height: 30px;
+        top: 74px;
+        left: 230px;
+    }
+    .about-left::before {
+        width: 15px;
+        height: 15px;
+        top: 81px;
+        left: 272px;
+    }
+    /* right-circle */
+    .about-right {
+        top: 214px;
+        left: 577px;
+        padding-left: 21px;
+    }
+    .about-right::before {
+        width: 15px;
+        height: 15px;
+        top: 80px;
+        left: -43px;
+    }
+    .about-right::after {
+        width: 30px;
+        height: 30px;
+        top: 72px;
+        left: -12px;
+    }
+    /* bottom-circle */
+    .about-bottom {
+        top: 406px;
+        left: 50%;
+    }
+    .about-bottom::before {
+        width: 15px;
+        height: 15px;
+        top: -39px;
+        left: 49%;
+    }
+    .about-bottom::after {
+        width: 30px;
+        height: 30px;
+        top: -11px;
+        left: 114px;
+    }
+    /* --- team-area media css start--- */
+    .team-icons a i {
+        margin: 0 6px;
+    }
+    /* -- footer-area media css start-- */
+    .footer-details p {
+        font-size: 14px;
+    }
+}
+
+/* ----------medium-device media css start--------------- */
+@media(min-width:768px) and (max-width:991.98px){
+    /* navber media css start */
+    .navbar-toggler i {
+        width: 40px;
+        height: 40px;
+        font-size: 24px;
+        background: #fff;
+        border-radius: 5px;
+        line-height: 40px;
+        text-align: center;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar-nav {
+        background: #000;
+        text-align: center;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        margin-left: 0;
+        padding-top: 11px;
+        padding-bottom: 12px;
+        display: inline-block;
+    }
+    .navbg .navbar-nav .nav-link::after {
+        bottom: -18px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+        bottom: 4px;
+    }
+    /* --banner-area media css start-- */
+    #banner {
+        height: 85vh;
+    }
+    .banner-content p {
+        max-width: 547px;
+        margin: 0 auto;
+    }
+    .banner-arrows .prev-arrow {
+        top: 60%;
+    }
+    .banner-arrows .next-arrow {
+        top: 60%;
+    }
+    /* --about-area media css start-- */
+    .head p {
+        line-height: 22px;
+    }
+    .about-box {
+        width: 250px;
+        margin: 20px 0;
+        padding-top: 21px;
+        padding-bottom: 0px;
+    }
+    .about-box h4 {
+        font-size: 16px;
+        padding-bottom: 5px;
+    }
+    .about-box p {
+        line-height: 22px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    /* main-circle */
+    .main-circle {
+        width: 150px;
+        height: 150px;
+    }
+    .about-circle {
+        width: 130px;
+        height: 130px;
+        margin-top: 9px;
+        margin-left: 9px;
+    }
+    /* top-circle */
+    .about-top {
+        top: 21px;
+        left: 49%;
+        /* width: 370px; */
+    }
+    .about-top::before {
+        width: 15px;
+        height: 15px;
+        top: 197px;
+        left: 51%;
+    }
+    .about-top::after {
+        width: 30px;
+        height: 30px;
+        top: 153px;
+        left: 120px;
+    }
+    /* left-circle */
+    .about-left {
+        top: 215px;
+        left: -5px;
+        padding-left: 6px;
+        padding-right: 16px;
+    }
+    .about-left::after {
+        width: 30px;
+        height: 30px;
+        top: 74px;
+        left: 230px;
+    }
+    .about-left::before {
+        width: 15px;
+        height: 15px;
+        top: 81px;
+        left: 272px;
+    }
+    /* right-circle */
+    .about-right {
+        top: 214px;
+        left: 457px;
+        padding-left: 21px;
+    }
+    .about-right::before {
+        width: 15px;
+        height: 15px;
+        top: 80px;
+        left: -43px;
+    }
+    .about-right::after {
+        width: 30px;
+        height: 30px;
+        top: 72px;
+        left: -12px;
+    }
+    /* bottom-circle */
+    .about-bottom {
+        top: 406px;
+        left: 50%;
+    }
+    .about-bottom::before {
+        width: 15px;
+        height: 15px;
+        top: -39px;
+        left: 49%;
+    }
+    .about-bottom::after {
+        width: 30px;
+        height: 30px;
+        top: -11px;
+        left: 114px;
+    }
+    /* --service-area media css start-- */
+    .service-slider::after {
+        display: none;
+    }
+    .service-slider {
+        padding-top: 110px;
+        padding-bottom: 110px;
+    }
+    .serv-title h4 {
+        text-align: center;
+        margin-bottom: 25px;
+        margin-top: 50px;
+    }
+    .slick-center .serv-icon {
+        transform: scale(1.2);
+    }
+    .serv-text {
+        margin-top: 50px;
+        text-align: center !important;
+        /* padding-top: 20px; */
+        /* padding-left: 20px; */
+        padding: 20px;
+        margin-bottom: 70px;
+    }
+    .service-item .bottom-side {
+        flex-direction: column-reverse;
+    }
+    .serv-text.left::after {
+        transform: rotate(-45deg) translateX(-50%);
+        top: -25px;
+        left: 50%;
+    }
+    .slick-center .serv-text.left::after {
+        filter: drop-shadow(0px 0px 0px #bdb3b3);
+    }
+    .serv-text.right::after {
+        transform: rotate(-45deg) translateX(-50%);
+        top: -25px;
+        right: 45%;
+    }
+    .slick-center .serv-text.right::after {
+        filter: drop-shadow(0px 0px 0px #bdb3b3);
+    }
+    /* -- testimonials-area media css start-- */
+    .testm-item {
+        margin: 90px auto auto;
+        margin-left: 20px;
+    }
+    /* -- pricing-plan-area start hare -- */
+    .pricing-plan-item {
+        position: relative;
+        margin-bottom: 20px;
+    }
+    /* --- team-area media css start--- */
+    .team-item {
+        margin-bottom: 20px;
+    }
+    .team-icons {
+        justify-content: center;
+    }
+    .team-icons a i {
+        margin: 0 5px;
+    }
+    /* counter-area media css start */
+    #counter {
+        padding: 165px 0;
+        clip-path: polygon(0px 20%, 100% 17px, 100% 80%, -26% 100%);
+    }
+    .counter-main {
+        transform: rotate(-10.1deg);
+        margin-left: 10px;
+    }
+    .counter-item {
+        padding: 34px 0;
+        margin-bottom: 25px;
+    }
+    .counter-item p {
+        font-size: 19px;
+    }
+    /* -- partners-area media css start-- */
+    .partners-main {
+        transform: rotate(-6.3deg);
+    }
+    /* -- footer-area media css start-- */
+    #footer {
+        clip-path: polygon(0px 16%, 100% 0px, 100% 100%, 0% 100%);
+    }
+    .footer-main {
+        transform: rotate(-6deg);
+    }
+    .footer-logo {
+        transform: rotate(8deg);
+    }
+    .footer-details {
+        border-right: none;
+    }
+    .socials-link a i {
+        margin-left: 10px;
+    }
+    /* -- copyright-area media css start-- */
+    .copyright-content p {
+        font-size: 13px;
+    }
+}
+
+/* -----------small-device media css start---------------- */
+@media(min-width:576px) and (max-width:767.98px){
+    /* navber media css start */
+    .navbar {
+        padding-top: 11px;
+        padding-bottom: 11px;
+    }
+    .navbar-toggler i {
+        width: 40px;
+        height: 40px;
+        font-size: 24px;
+        background: #fff;
+        border-radius: 5px;
+        line-height: 40px;
+        text-align: center;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar-brand img {
+        width: 100px;
+    }
+    .navbar-nav {
+        background: #000;
+        text-align: center;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        margin-left: 0;
+        padding-top: 11px;
+        padding-bottom: 12px;
+        display: inline-block;
+    }
+    .navbg .navbar-nav .nav-link::after {
+        bottom: -18px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+        bottom: 4px;
+    }
+    /* --banner-area media css start-- */
+    #banner {
+        height: 85vh;
+    }
+    .banner-content h3 {
+        font-size: 30px;
+    }
+    .banner-content p {
+        line-height: 22px;
+        padding-bottom: 42px;
+    }
+    .banner-arrows .prev-arrow {
+        top: 60%;
+    }
+    .banner-arrows .next-arrow {
+        top: 60%;
+    }
+    /* --about-area media css start-- */
+    .head p {
+        line-height: 22px;
+    }
+    .about-content {
+        position: relative;
+        margin-top: 36px;
+        padding-top: 0px;
+        padding-bottom: 940px;
+    }
+    .about-box {
+        width: 295px;
+        margin: 20px 0;
+        padding-top: 25px;
+        padding-bottom: 20px;
+    }
+    /* main-circle */
+    .main-circle {
+        width: 290px;
+        height: 290px;
+    }
+    .about-circle {
+        width: 260px;
+        height: 260px;
+        margin-top: 14px;
+        margin-left: 14px;
+    }
+    /* top-circle */
+    .about-top {
+        top: 304px;
+        left: 50%;
+        width: 290px;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    .about-top::before {
+        display: none;
+    }
+    .about-top::after {
+        display: none;
+    }
+    /* left-circle */
+    .about-left {
+        top: 44%;
+        left: 50%;
+        text-align: center;
+        transform: translateX(-50%);
+    }
+    .about-left::before {
+        display: none;
+    }
+    .about-left::after {
+        display: none;
+    }
+    /* right-circle */
+    .about-right {
+        text-align: center;
+        top: 63%;
+        left: 50%;
+        transform: translateX(-50%);
+        padding-left: 5px;
+    }
+    .about-right::before {
+        display: none;
+    }
+    .about-right::after {
+        display: none;
+    }
+    /* bottom-circle */
+    .about-bottom {
+        padding-left: 5px;
+        padding-right: 5px;
+        top: 82%;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .about-bottom::before {
+        display: none;
+    }
+    .about-bottom::after {
+        display: none;
+    }       
+    /* --service-area media css start-- */
+    .service-slider::after {
+        display: none;
+    }
+    .service-slider {
+        padding-top: 110px;
+        padding-bottom: 110px;
+    }
+    .serv-title {
+        padding-top: 26px;
+    }
+    .serv-title h4 {
+        text-align: center;
+        margin-bottom: 25px;
+        margin-top: 35px;
+    }
+    .slick-center .serv-icon {
+        transform: scale(1.2);
+    }
+    .serv-text {
+        text-align: center;
+        margin-top: 50px;
+        text-align: center!important;
+    }
+    .service-item .bottom-side {
+        flex-direction: column-reverse;
+    }
+    .serv-text.left::after {
+        transform: rotate(-45deg) translateX(-50%);
+        top: -25px;
+        left: 50%;
+    }
+    .slick-center .serv-text.left::after {
+        filter: drop-shadow(0px 0px 0px #bdb3b3);
+    }
+    .serv-text.right::after {
+        transform: rotate(-45deg) translateX(-50%);
+        top: -25px;
+        right: 45%;
+    }
+    .slick-center .serv-text.right::after {
+        filter: drop-shadow(0px 0px 0px #bdb3b3);
+    }
+    /* -- testimonials-area media css start-- */
+    .clients-img {
+        width: 100px;
+        height: 100px;
+        line-height: 100px;
+        padding-top: 7px;
+        margin-top: 10px;
+    }
+    .testm-item::after {
+        top: -2px;
+        left: 50%;
+        transform: rotate(45deg) translateX(-50%);
+    }
+    .testm-item {
+        padding: 25px 20px 25px;
+        margin: 70px auto auto;
+        margin-left: 0;
+        margin-bottom: 79px;
+    }
+    .testm-item p {
+        line-height: 22px;
+    }
+    /* -- pricing-plan-area start hare -- */
+    .pricing-plan-item {
+        position: relative;
+        margin-bottom: 20px;
+    }
+    /* --- team-area media css start--- */
+    .team-item {
+        margin-bottom: 20px;
+    }
+    .team-icons {
+        justify-content: center;
+    }
+    /* counter-area media css start */
+    #counter {
+        padding: 165px 0;
+        clip-path: polygon(0px 20%, 100% 17px, 100% 80%, -26% 100%);
+    }
+    .counter-main {
+        transform: rotate(-10.1deg);
+        margin-left: 10px;
+    }
+    .counter-item {
+        padding: 34px 0;
+        margin-bottom: 25px;
+    }
+    .counter-item p {
+        font-size: 19px;
+    }
+    /* -- partners-area media css start-- */
+    .partners-main {
+        transform: rotate(-10.3deg);
+    }
+    /* -- footer-area media css start-- */
+    #footer {
+        clip-path: polygon(0px 11%, 111% 0px, 100% 100%, 0% 100%);
+    }
+    .footer-main {
+        transform: rotate(-8deg);
+    }
+    .footer-logo {
+        transform: rotate(8deg);
+    }
+    .footer-details {
+        border-right: none;
+    }
+    .socials-link a i {
+        margin-left: 10px;
+    }
+    /* -- copyright-area media css start-- */
+    .copyright-content p {
+        font-size: 13px;
+    }
+}
+
+/* -----xtra-small device media css start----- */
+@media(max-width:575.98px){
+    /* navber media css start */
+    .navbar {
+        padding-top: 11px;
+        padding-bottom: 11px;
+    }
+    .navbar-toggler i {
+        width: 40px;
+        height: 40px;
+        font-size: 24px;
+        background: #fff;
+        border-radius: 5px;
+        line-height: 40px;
+        text-align: center;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar-brand img {
+        width: 100px;
+    }
+    .navbar-nav {
+        background: #000;
+        text-align: center;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        margin-left: 0;
+        padding-top: 11px;
+        padding-bottom: 12px;
+        display: inline-block;
+    }
+    .navbg .navbar-nav .nav-link::after {
+        bottom: -18px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+        bottom: 4px;
+    }
+    /* --banner-area media css start-- */
+    #banner {
+        height: 85vh;
+    }
+    .banner-content h3 {
+        font-size: 28px;
+        padding-bottom: 10px;
+    }
+    .banner-content h1 {
+        font-size: 52px;
+        padding-bottom: 12px;
+    }
+    .banner-content p {
+        line-height: 22px;
+        padding-bottom: 42px;
+    }
+    .banner-content a {
+        padding: 14px 17px;
+    }
+    .banner-arrows .prev-arrow {
+        top: 60%;
+    }
+    .banner-arrows .next-arrow {
+        top: 60%;
+    }
+    /* --about-area media css start-- */
+    .head p {
+        line-height: 22px;
+    }
+    .about-content {
+        position: relative;
+        margin-top: 36px;
+        padding-top: 0px;
+        padding-bottom: 940px;
+    }
+    .about-box {
+        width: 295px;
+        margin: 20px 0;
+        padding-top: 25px;
+        padding-bottom: 20px;
+    }
+    /* main-circle */
+    .main-circle {
+        width: 290px;
+        height: 290px;
+    }
+    .about-circle {
+        width: 260px;
+        height: 260px;
+        margin-top: 14px;
+        margin-left: 14px;
+    }
+    /* top-circle */
+    .about-top {
+        top: 304px;
+        left: 50%;
+        width: 290px;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    .about-top::before {
+        display: none;
+    }
+    .about-top::after {
+        display: none;
+    }
+    /* left-circle */
+    .about-left {
+        top: 44%;
+        left: 50%;
+        text-align: center;
+        transform: translateX(-50%);
+    }
+    .about-left::before {
+        display: none;
+    }
+    .about-left::after {
+        display: none;
+    }
+    /* right-circle */
+    .about-right {
+        text-align: center;
+        top: 63%;
+        left: 50%;
+        transform: translateX(-50%);
+        padding-left: 5px;
+    }
+    .about-right::before {
+        display: none;
+    }
+    .about-right::after {
+        display: none;
+    }
+    /* bottom-circle */
+    .about-bottom {
+        padding-left: 5px;
+        padding-right: 5px;
+        top: 82%;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .about-bottom::before {
+        display: none;
+    }
+    .about-bottom::after {
+        display: none;
+    }
+    /* --portfolio-area media css start-- */
+    #portfolio {
+        padding-top: 83px;
+        padding-bottom: 70px;
+    }
+    .portfolio-slider {
+        margin: 0 auto;
+    }
+    /* --service-area media css start-- */
+    .service-slider::after {
+        display: none;
+    }
+    .service-slider {
+        padding-top: 110px;
+        padding-bottom: 110px;
+    }
+    .serv-title h4 {
+        text-align: center;
+        margin-bottom: 25px;
+        margin-top: 45px;
+    }
+    .slick-center .serv-icon {
+        transform: scale(1.2);
+    }
+    .serv-text {
+        text-align: center;
+        margin-top: 50px;
+        text-align: center!important;
+        margin-bottom: 20px;
+    }
+    .service-item .bottom-side {
+        flex-direction: column-reverse;
+    }
+    .serv-text.left::after {
+        transform: rotate(-45deg) translateX(-50%);
+        top: -25px;
+        left: 50%;
+    }
+    .slick-center .serv-text.left::after {
+        filter: drop-shadow(0px 0px 0px #bdb3b3);
+    }
+    .serv-text.right::after {
+        transform: rotate(-45deg) translateX(-50%);
+        top: -25px;
+        right: 41%;
+    }
+    .slick-center .serv-text.right::after {
+        filter: drop-shadow(0px 0px 0px #bdb3b3);
+    }
+    /* -- testimonials-area media css start-- */
+    .clients-img {
+        width: 85px;
+        height: 85px;
+        line-height: 80px;
+        padding-top: 7px;
+        margin-top: 10px;
+    }
+    .testm-item::after {
+        top: -2px;
+        left: 50%;
+        transform: rotate(45deg) translateX(-50%);
+    }
+    .testm-item {
+        padding: 25px 15px 25px;
+        margin: 70px auto auto;
+        margin-left: 0;
+        margin-bottom: 79px;
+    }
+    .testm-item p {
+        line-height: 22px;
+    }
+    /* -- pricing-plan-area start hare -- */
+    .pricing-plan-item {
+        position: relative;
+        margin-bottom: 20px;
+    }
+    /* --- counter-area media css start--- */
+    #counter {
+        clip-path: polygon(0px 9%, 100% 17px, 100% 91%, -26% 100%);
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+    .counter-item {
+        margin-bottom: 16px;
+    }
+    /* --- team-area media css start--- */
+    .team-item {
+        margin-bottom: 20px;
+    }
+    .team-icons {
+        justify-content: center;
+    }
+    /* -- partners-area media css start-- */
+    .partners-main {
+        transform: rotate(-10.3deg);
+    }
+    /* -- footer-area media css start-- */
+    #footer {
+        clip-path: polygon(0px 11%, 111% 0px, 100% 100%, 0% 100%);
+    }
+    .footer-main {
+        transform: rotate(-8deg);
+    }
+    .footer-logo {
+        transform: rotate(8deg);
+    }
+    .footer-details {
+        border-right: none;
+    }
+    .socials-link a i {
+        margin-left: 10px;
+    }
+    /* -- copyright-area media css start-- */
+    .copyright-content p {
+        font-size: 13px;
+    }
+}
+
+@media(width:575px){
+    /* service-area media css start */
+    .serv-text {
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+    .serv-text.right::after {
+        right: 45%;
+    }
+}
